@@ -1,0 +1,13 @@
+{
+"companyName": "苏州番茄互娱信息科技有限公司",
+"productName": "开心玻璃杯",
+"dataUrl": "HappyGlassWebGL.data.unityweb",
+"wasmCodeUrl": "HappyGlassWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "HappyGlassWebGL.wasm.framework.unityweb",
+"wasmSymbolsUrl": "HappyGlassWebGL.wasm.symbols.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
